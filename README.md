@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+i am currently working on fair medical ai 
 <!--
 **Abhinoob1501/Abhinoob1501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
