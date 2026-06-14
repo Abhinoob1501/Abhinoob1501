@@ -1,16 +1,26 @@
-## Hi there 👋
+# hey 👋
 
-<!--
-**Abhinoob1501/Abhinoob1501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i'm someone who likes learning.
 
-Here are some ideas to get you started:
+currently obsessed with:
+- gpu optimizations
+- inference engines
+- llm internals
+- low-level performance stuff
+- making things unnecessarily fast for fun
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+i also like animals. a lot, specially cats.
+
+---
+
+## stuff i work with
+
+```txt
+python
+node.js
+next.js
+typescript
+javascript
+pytorch
+cuda
+triton
