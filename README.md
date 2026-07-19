@@ -26,8 +26,8 @@
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA_C++-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA_C%2B%2B-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -67,12 +67,10 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| 🔬 **[Micro-DiT](https://github.com/Abhinoob1501)** | From-scratch Diffusion Transformer with fused Triton AdaLN kernels, CUDA Graph capture, and Flash Attention — 1.18x forward speedup, 18% lower peak memory | `PyTorch` `Triton` `CUDA` |
-| ⚙️ **[High-Performance CUDA GEMM Library](https://github.com/Abhinoob1501)** | Hand-rolled FP32 GEMM in CUDA C++ hitting 95% of cuBLAS via shared-memory tiling, 2D register blocking, and warp-cooperative tiling | `CUDA C++` `Nsight` |
-| 🤖 **[Ramanujan](https://github.com/Abhinoob1501)** | Autonomous multi-agent ML research system — self-debugging training code, budget-aware RunPod/local execution, vector-embedding knowledge base | `Python` `Pydantic` `SQLite` `Docker` |
-| 💬 **[ThoughtChain](https://github.com/Abhinoob1501)** | Full-stack conversational AI with a D3.js graph visualization of reasoning chains and ChromaDB-backed contextual memory | `Next.js` `D3.js` `LangChain` |
-
-> Replace each project link above with the actual repo URL once pushed to GitHub.
+| 🔬 **[Micro-DiT](https://github.com/Abhinoob1501/dit-triton-kernel)** | From-scratch Diffusion Transformer with fused Triton AdaLN kernels, CUDA Graph capture, and Flash Attention — 1.18x forward speedup, 18% lower peak memory | `PyTorch` `Triton` `CUDA` |
+| ⚙️ **[High-Performance CUDA GEMM Library](https://github.com/Abhinoob1501/CUDA-GEMM-)** | Hand-rolled FP32 GEMM in CUDA C++ hitting 95% of cuBLAS via shared-memory tiling, 2D register blocking, and warp-cooperative tiling | `CUDA C++` `Nsight` |
+| 🤖 **[Ramanujan](https://github.com/Abhinoob1501/ramanujan)** | Autonomous multi-agent ML research system — self-debugging training code, budget-aware RunPod/local execution, vector-embedding knowledge base | `Python` `Pydantic` `SQLite` `Docker` |
+| 💬 **[ThoughtChain](https://github.com/Abhinoob1501/ThoughtChain)** | Full-stack conversational AI with a D3.js graph visualization of reasoning chains and ChromaDB-backed contextual memory | `Next.js` `D3.js` `LangChain` |
 
 ---
 
@@ -84,7 +82,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinoob1501&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Abhinoob1501&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
