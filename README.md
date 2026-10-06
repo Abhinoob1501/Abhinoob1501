@@ -15,7 +15,7 @@
 - 🔬 Currently a **Machine Learning Research Intern at IIT Delhi**, building fairness-aware deep learning systems for medical imaging (glaucoma, dermatology, chest X-ray diagnosis)
 - 📄 Co-authoring **DIAGNOSE**, a multi-teacher knowledge distillation framework submitted to **BMVC 2026**, achieving SOTA fairness on the PAPILA glaucoma dataset
 - ⚡ Deep interest in **GPU systems programming** — I write custom CUDA/Triton kernels and chase every last percent of hardware throughput
-- 🏆 Competitive ML on the **Eris platform**, scaling winnings to **2.5+ Lakhs INR in a single month** across CV and tabular challenges
+- 🏆 Competitive ML on the **Eris platform**, scaling winnings to **10,000+ Dollars** across CV and tabular challenges
 - 🎓 B.Tech in Artificial Intelligence & Data Science, GGSIPU — **CGPA 9.04/10**
 - 🌱 Always exploring the intersection of **low-level systems performance** and **trustworthy, fair AI**
 
